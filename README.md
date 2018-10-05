@@ -6,7 +6,7 @@ this is "ROM hacking").
 
 This tool is in proof-of-concept state only, it was never released to public.
 
-# Usage:
+# Usage
 	dcstrex <dc_exec.bin> <output.csv> <addr_base>
 	
 The output generated will be in `CSV` format (can be opened in any spreadsheet
